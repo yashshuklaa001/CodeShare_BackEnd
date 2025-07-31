@@ -33,39 +33,39 @@ Built with **Node.js**, **Express**, and **Socket.IO**, the backend handles ever
 
 Follow the steps below to run the backend locally:
 
-# 1. Clone the repository
+## 1. Clone the repository
 ```bash
 git clone https://github.com/rampalyadav0001/codeShare-backend.git
 ```
 
 ---
 
-# 2. Navigate to the project directory
+## 2. Navigate to the project directory
 ```bash
 cd codeShare-backend
 ```
 
 ---
 
-# 3. Install dependencies
+## 3. Install dependencies
 ```bash
 npm install
 ```
 ---
 
-# 4. Create a .env file in the root directory:
+## 4. Create a .env file in the root directory:
 ```bash
 PORT=3000
 ```
 ---
 
-# 5. Run the server
+## 5. Run the server
 ```bash
 npm start
 ```
 ---
 
-# 6. The server should now be running at
+## 6. The server should now be running at
 ```bash
 http://localhost:3000/
 ```
