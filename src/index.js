@@ -49,7 +49,7 @@ const compileCode = async (code, input, language) => {
         {
           headers: {
             'x-rapidapi-key':
-              '058b8f38ddmsha8186b3d27d0c1cp11ee6ejsnca727228c499',
+              '1a423ea865msh941cb7fd16a8585p16283cjsn7d72ed21c8a4',
             'x-rapidapi-host': 'judge0-ce.p.rapidapi.com',
           },
         }
